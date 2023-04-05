@@ -1,0 +1,17 @@
+{
+  "name": "lbmjs-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DOSI Vault <dosi.vault@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/crypto": "^0.30.1",
+    "@cosmjs/proto-signing": "^0.30.1",
+    "@cosmjs/stargate": "^0.30.1",
+    "@lbmjs/finschia": "^0.8.0-rc1"
+  }
+}
