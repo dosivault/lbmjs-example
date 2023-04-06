@@ -1,10 +1,5 @@
 # Finschia 에서 `LN`(=10^6 cony) 송금 예제
 
-## 공지
-
-- 2023/05 월중에 chain id가 `finschia-1`에서 `finschia-2`로 변경예정입니다.
-- 3rd party가 사용가능한 testnet 환경이 아직 제공되지 않습니다.
-
 ## 실행하기
 
 ```bash
